@@ -1,2 +1,2 @@
 # whatever
-![Alt text](/path/to/img.jpg)
+https://youtu.be/W8AflshJ-nA
